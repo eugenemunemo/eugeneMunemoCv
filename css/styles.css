@@ -1,0 +1,19 @@
+.navbar-brand {font-family: 'Lobster', cursive;
+    font: size 32px;
+    margin-right: 50px;
+
+}
+
+.container{
+    margin-top: 80px ;
+}
+
+.intro{
+    float: right;
+    width: 60%;
+}
+
+.mainPic{
+    float: left;
+    width: 35%;
+}
