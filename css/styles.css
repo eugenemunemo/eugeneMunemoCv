@@ -264,3 +264,41 @@ h1.name {
 	font-size: 16px;
 }
 
+
+/* Achievements ends */
+
+
+
+/* Timeline styles*/
+
+
+ol {
+	position: relative;
+	display: block;
+	margin: 100px 0;
+	height: 2px;
+	background: #EEF0F7;
+
+}
+ol::before,
+ol::after {
+	content: "";
+	position: absolute;
+	top: -10px;
+	display: block;
+	width: 0;
+	height: 0;
+  	border-radius: 10px;
+	border: 0px solid #31708F;
+}
+ol::before {
+	left: -5px;
+}
+ol::after {
+	right: -10px;
+	border: 0px solid transparent;
+	border-right: 0;
+	border-left: 20px solid #31708F;
+  	border-radius: 3px;
+}
+
