@@ -91,7 +91,7 @@ text-align:center;
 padding: 0px 0px;
 text-decoration: none;
 font-size: 0px;
-width: 200%;
+/*width: 200%;*/
 height: 0%;}
 
 .h1 {display: block;
@@ -107,7 +107,8 @@ height: 0%;}
   width:fit-content;}
 
  .contact{
-
+width: 60%;
+height: 65%;
   -moz-float-edge:right;
  } 
         
@@ -141,16 +142,16 @@ height: 0%;}
 			background-color: #2196F3;
 			padding: 10px;
 			font-weight: bold;
-  color: rgb(7, 7, 7);
-  font-family: Tahoma ;
-  font-size: 20px ;
+      color: rgb(7, 7, 7);
+      font-family: awesome ;
+      font-size: 9px ;
 		  }
 		/* grid-template-columns Property */
 		  .grid-container > div {
 			background-color: rgba(255, 255, 255, 0.8);
 			text-align: center;
-			padding: 20px 0;
-			font-size: 30px;
+			padding: 13px 0;
+			font-size: 13px;
 		  }
   
   
