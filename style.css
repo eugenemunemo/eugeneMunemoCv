@@ -710,7 +710,7 @@ img {
 
 .education-wrapper .education:after{ content:''; position: absolute; top: 8px; left: -58px; width: 16px; 
 	height: 16px; border-radius: 10px; z-index: 1;
-	box-shadow: 0 0 0 8px rgba(255,171,0, .4); background: rgb(14, 49, 146); }
+	box-shadow: 0 0 0 8px rgba(255,171,0, .4); background: rgb(5, 22, 68); }
 	
 	
 
@@ -970,7 +970,7 @@ img {
 .footer-area {
   position: relative;
   z-index: 1;
-  background-color: #0e0955;
+  background-color: #080538;
   padding-bottom: 40px; }
   .footer-area .footer-widget-area p {
     color: #cccccc;
