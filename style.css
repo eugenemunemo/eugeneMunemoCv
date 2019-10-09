@@ -970,7 +970,7 @@ img {
 .footer-area {
   position: relative;
   z-index: 1;
-  background-color: #38c9e0f2;
+  background-color: #0e0955;
   padding-bottom: 40px; }
   .footer-area .footer-widget-area p {
     color: #cccccc;
@@ -1002,7 +1002,7 @@ img {
       cursor: pointer;
       background-color: #0e0955; }
       .footer-area .footer-widget-area .subscribe-form button:hover, .footer-area .footer-widget-area .subscribe-form button:focus {
-        background-color: #0d86e9; }
+        background-color: #0e0955; }
   .footer-area .copywrite-text {
     position: relative;
     z-index: 1; }
