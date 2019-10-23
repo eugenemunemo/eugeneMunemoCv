@@ -674,7 +674,7 @@ img {
   z-index: 1;
   width: 100%;
   padding: 70px 50px;
-  border: 2px solid #cec7c0;
+  border: 2px solid #0e0955;
   background-color: rgba(0, 0, 0, 0.63); }
   @media only screen and (max-width: 767px) {
     .pool-content {
@@ -741,7 +741,7 @@ img {
     transform: translateX(-50%);
     padding: 10px 15px;
     background-color: #181818;
-    border: 2px solid #cec7c0;
+    border: 2px solid #0e0955;
     display: inline-block;
     margin-bottom: 0;
     line-height: 1;
@@ -756,7 +756,7 @@ img {
     right: 20px;
     bottom: 20px;
     width: calc(100% - 40px);
-    border: 2px solid #cec7c0;
+    border: 2px solid #0e0955;
     text-align: center;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms; }
@@ -1025,7 +1025,8 @@ img {
 /* :: 16.0 Contact Area CSS */
 .contact-area {
   position: relative;
-  z-index: 1; }
+  z-index: 1; 
+background-color:yellow ;}
   .contact-area .home-map-area {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 50%;
@@ -1051,7 +1052,8 @@ img {
     flex: 0 0 50%;
     max-width: 50%;
     width: 50%;
-    padding: 0 8%; }
+    padding: 0 8%;
+    background :yellow; }
     @media only screen and (max-width: 767px) {
       .contact-area .contact-info {
         -webkit-box-flex: 0;
@@ -1147,3 +1149,6 @@ img {
         box-shadow: none; }
     .contact-form-area form textarea {
       height: 180px; }
+.education-section section{
+  text-decoration-color: #000000;
+}
